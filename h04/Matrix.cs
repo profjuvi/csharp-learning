@@ -1,5 +1,6 @@
 
-namespace h04{
+namespace h04
+{
     public class Matrix
     {
         int rows;
